@@ -1,6 +1,7 @@
 # GNDEC_INDUCTION_REPORT
 INDUCTION REPORT 2025
 AUTHOR- NAVNEET KAUR
+
 DAY 1
 On 31st July 2025, the induction program for IT and CSE students began with a Kirtan organized in the College Gurdwara by the school and college members. The purpose of the Kirtan was to seek the blessings of God for both students and teachers at the start of this new academic journey.
 
