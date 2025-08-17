@@ -14,7 +14,7 @@ DAY 2
 On 1st and 2nd August 2025, I was unable to attend the induction program. From what I heard, during these days a test was conducted to check the students’ knowledge and productivity from the holidays. The questions were mainly based on Mathematics and English.
 My First Day of Induction – 4th August 2025
 
-day 3(my first day)
+DAY 3(my first day)
 
 On 4th August 2025, I had my first day of the induction program. To be honest, I was a little nervous in the morning. Luckily, my roommates and classmates helped me with the timetable, and that gave me some confidence. My first lecture was of Professional English Communication.
 
@@ -33,4 +33,9 @@ On the second day of induction, that is 5th August 2025, we first had peer-to-pe
 After that, we had a lecture on Basic Electrical and Electronics Engineering (EEE). The professor gave us an introduction about the subject and explained the syllabus. It felt new, but also interesting to know what we will be learning.
 
 Later, we also had a session in the auditorium, which was part of the induction program.
+On the fourth day of our induction program, we had a session with Professor Lakhvir Singh. He told us about SWAYAM, which is a government website that has thousands of free courses in areas like engineering, biology, graphics, and many others. He suggested that we should join an NPTEL course from there because it would help us in our studies and even in getting internships.
+
+He also introduced us to his club called the Center for Multifaceted Learning (CML). The club has different teams like the technical and database team, the discipline team, the creative team, and the photography team. Each team has its own work, like managing data, keeping discipline, creating ideas, or covering events.
+
+Professor Singh explained that by being part of CML, we can learn teamwork, leadership, and many other useful skills. He motivated us to join the club and also make use of SWAYAM, as both would help us grow in studies as well as in personality.
 
