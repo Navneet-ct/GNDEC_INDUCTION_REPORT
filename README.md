@@ -37,5 +37,5 @@ On the fourth day of our induction program, we had a session with Professor Lakh
 
 He also introduced us to his club called the Center for Multifaceted Learning (CML). The club has different teams like the technical and database team, the discipline team, the creative team, and the photography team. Each team has its own work, like managing data, keeping discipline, creating ideas, or covering events.
 
-Professor Singh explained that by being part of CML, we can learn teamwork, leadership, and many other useful skills. He motivated us to join the club and also make use of SWAYAM, as both would help us grow in studies as well as in personality.
+Professor explained that by being part of CML, we can learn teamwork, leadership, and many other useful skills. He motivated us to join the club and also make use of SWAYAM, as both would help us grow in studies as well as in personality.
 
