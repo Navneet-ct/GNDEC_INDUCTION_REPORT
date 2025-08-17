@@ -1,8 +1,36 @@
 # GNDEC_INDUCTION_REPORT
 INDUCTION REPORT 2025
 AUTHOR- NAVNEET KAUR
-Recently, I attended the induction program at my college. Since I couldn’t join in the initial days, I missed the beginning where they organized a Kirtan ceremony to seek the blessings of God for both students and teachers, marking the start of the program and the upcoming four years.
+DAY 1
+On 31st July 2025, the induction program for IT and CSE students began with a Kirtan organized in the College Gurdwara by the school and college members. The purpose of the Kirtan was to seek the blessings of God for both students and teachers at the start of this new academic journey.
 
-I’m not entirely sure what happened during those first four days, but from what I heard, they were quite productive and a really good initiative. I was able to join on the fifth day. That day began with a lecture by a doctor on human values, positivity, and the needs of both the human body and mind—explaining how they are interconnected yet different aspects of life. She also spoke about the idea of life itself, highlighting that it cannot be defined in just one line, a page, or even a book—it’s a never-ending topic. Her key message to us was to always remain positive.
+For students of other branches—Mechanical, Civil, Electrical, Robotics, and AI—the Kirtan had already been held a day earlier, on 30th July 2025.
 
-After the lecture, we were given detailed information about various scholarships, programs, and college clubs, such as the Causmic Club, NSS, NCC, and sports activities. They also provided us with a stage to showcase our talents and abilities. To make the event even more lively, our seniors performed on stage, including a vibrant performance on a Punjabi song.
+Unfortunately, I was not able to attend the induction program on the first day.
+
+
+DAY 2 
+
+On 1st and 2nd August 2025, I was unable to attend the induction program. From what I heard, during these days a test was conducted to check the students’ knowledge and productivity from the holidays. The questions were mainly based on Mathematics and English.
+My First Day of Induction – 4th August 2025
+
+day 3(my first day)
+
+On 4th August 2025, I had my first day of the induction program. To be honest, I was a little nervous in the morning. Luckily, my roommates and classmates helped me with the timetable, and that gave me some confidence. My first lecture was of Professional English Communication.
+
+The teacher came in, introduced herself, and then asked all of us to give our own introductions. She told us to share our name, some basic details, our strengths, weaknesses, and achievements. She also taught us some new English words before we spoke. When my turn came, I was quite nervous at the beginning, but slowly I managed to speak in front of the whole class. That moment gave me a little confidence.
+
+The second lecture was Chemistry, taken by Professor Rajveer Kaur. She was really kind, polite, and supportive by nature. She told us that if we ever needed help—whether in studies or in extracurricular activities—she would always be there, provided we maintain discipline. Since she is also the head of first-year programs, she guided us to stay focused on our field, but at the same time, not to forget our real interests. She said we should balance academics with our extracurricular activities, which I found very motivating.
+
+After that, another professor gave us a very interesting talk about life. She said life cannot be explained in just one line, one page, or even one book—it is endless. She told us how the body and mind are different, even though we treat them as the same. She spoke about positivity, happiness, and how to stay safe in life. Honestly, that lecture made me think differently about many things.
+
+Finally, our principal came and spoke to us. She not only encouraged us to showcase our talents but also told us about important documents we would need in life and the different scholarships available. At the end, one of our seniors sang a Punjabi song, which really lifted the mood and made the whole environment vibrant.
+
+My Second Day of Induction – 5th August 2025
+
+On the second day of induction, that is 5th August 2025, we first had peer-to-peer sessions. Our seniors came and taught us the basics of C++ programming. They also told us about how second year will be, and they shared their experiences. They were very confident while teaching and told us not to feel shy, but to stay confident always. I really liked the way they explained, and it felt nice to interact with them.
+
+After that, we had a lecture on Basic Electrical and Electronics Engineering (EEE). The professor gave us an introduction about the subject and explained the syllabus. It felt new, but also interesting to know what we will be learning.
+
+Later, we also had a session in the auditorium, which was part of the induction program.
+
