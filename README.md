@@ -40,3 +40,10 @@ He also introduced us to his club called the Center for Multifaceted Learning (C
 
 Professor explained that by being part of CML, we can learn teamwork, leadership, and many other useful skills. He motivated us to join the club and also make use of SWAYAM, as both would help us grow in studies as well as in personality.
 
+DAY-5
+
+On the next day, we were given information about different clubs in the college. One of them was the Digital Marketing Club (DMC). This club mainly works on the digital presence of the college on platforms like Instagram, Facebook, and LinkedIn. They told us how important it is for the college to stay active online in today’s world, especially in the era of artificial intelligence.
+
+The club also works on making videos about the college. These videos are created by students using their creativity, hard work, and new technologies. They even showed us some of the videos made earlier, which were really impressive. We were also informed about upcoming recruitments for students who want to join the club and learn about digital tools and technologies. They mentioned film-making and video-making competitions, which sounded very exciting.
+
+After that session, a professor explained about our college IT system. He told us how to access our information on the college website using our roll numbers and also gave details about our ID cards. The session was very useful and helped us understand both the creative side of college through clubs and the technical side through our official systems.
